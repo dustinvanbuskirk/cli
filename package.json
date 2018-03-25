@@ -42,7 +42,7 @@
     "kefir": "^3.8.1",
     "lodash": "^4.17.4",
     "mkdirp": "^0.5.1",
-    "moment": "^2.19.4",
+    "moment": "^2.20.1",
     "mongodb": "^3.0.1",
     "prettyjson": "^1.2.1",
     "recursive-readdir": "^2.2.1",
